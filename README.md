@@ -1,1 +1,1 @@
-# react
+# trening-react
